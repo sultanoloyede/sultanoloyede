@@ -25,7 +25,7 @@
 ## Work Experience
 
 <a href="https://www.orbitalcommand.io/" target="_blank"> <img alt="sheetsdatabase" src="./Resources/imgs/oc.svg"  height="68" align="left"> </a>
-<a href="https://sultansfood.ca" target="_blank"> <img alt="artistify" src="./Resources/imgs/sft2.svg" height="68" align="left"> </a>
+<a href="" target="_blank"> <img alt="artistify" src="./Resources/imgs/sft2.svg" height="68" align="left"> </a>
 <a href="https://dotcom.prod.makerhouse.hogarthww.digital/about.html" target="_blank"> <img alt="readmeicons" src="./Resources/imgs/mh.png" height="68" align="left"> </a>
 <a href="https://www.linkedin.com/company/safetylabsinc/" target="_blank"> <img alt="passwordkeeper" src="./Resources/imgs/sl.svg" height="68" align="left"> </a>
 <a href="https://www.softwareforlove.com/" target="_blank"> <img alt="oxytracker" src="./Resources/imgs/sfl.svg" height="68" align="left"> </a>
