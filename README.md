@@ -3,7 +3,7 @@
     <img src="./Resources/imgs/name.png" alt="Sultan Oloyede" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack%2FData+Engineer;Experience+in+ML%2FWeb+Development;5%2B+Internships;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=600&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack%2FData+Engineer;Experience+in+ML%2FWeb+Development;5%2B+Internships;Always+learning+new+things!)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
@@ -24,11 +24,11 @@
 <a href="https://www.softwareforlove.com/" target="_blank"> <img alt="oxytracker" src="./Resources/imgs/sfl.svg" height="68" align="left"> </a>
 <a href="https://www.deenstrong.com/" target="_blank"> <img alt="wavelength" src="./Resources/imgs/ds.svg" height="68" align="left"> </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Currently working on...
 
