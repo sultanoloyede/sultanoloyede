@@ -4,11 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack/Data%20Engineer;
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack/Data%20Engineer;
     Experience%20in%20ML/Web%20Development;
     5%2B%20Internships;
-    Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=500&size=22" /></a>
+    Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=500&size=22")](https://git.io/typing-svg)
 </p>
 
 <!-- Social icons section -->
