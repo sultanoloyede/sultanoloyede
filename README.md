@@ -41,7 +41,6 @@
 
 [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/Black-Wall-Street/Project-OTE)](https://github.com/Black-Wall-Street/Project-OTE)
 
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/sultanoloyede/ai-music-generator)](https://github.com/sultanoloyede/ai-music-generator)
 
 <br/>
 
